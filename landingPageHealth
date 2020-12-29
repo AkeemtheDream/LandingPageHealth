@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+echo "# LandingPageHealth" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AkeemtheDream/LandingPageHealth.git
+git push -u origin main
+<html>
+  <head>
+  <title>Wholistic Health</title>
+  </head>
+  <body>
+
+<!-- we start with broad headings & narrowing headings around topic of health -->
+    <h1>Health Starts Here</h1>
+    <h2>Fuel for Health</h2>
+    <h3> What should I be eating?</h3>
+    <p1> There are many different approaches when it comes to eating the right
+      tings for your health. First & foremost are your goals. SOme people are
+      looking to lose weight, while others are looking to gain. Some people have
+      allergies and others don't. As a general rule of thumb a <strong><em>plant
+      based diet </strong></em>as that is most universal & is a good starting point
+      for health regardless of your individual goal as all health goals include
+      getting...well... healthier.</p1>
+
+    <h2>Exercise Structure</h2>
+
+    <h2>Recovery of Champions</h2>
+
+
+  </body>
+
+</html>
